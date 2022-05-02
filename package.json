@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vladmaniac/cypress/issues"
   },
-  "homepage": "https://github.com/vladmaniac/cypress#readme"
+  "homepage": "https://github.com/vladmaniac/cypress#readme",
+  "devDependencies": {
+    "cypress": "9.6.0"
+  }
 }
