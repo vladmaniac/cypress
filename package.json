@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Easy wrapper with sticky features over cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladmaniac/cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "VMA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladmaniac/cypress/issues"
+  },
+  "homepage": "https://github.com/vladmaniac/cypress#readme"
+}
